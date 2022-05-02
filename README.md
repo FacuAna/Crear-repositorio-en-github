@@ -1,2 +1,4 @@
 # Crear-repositorio-en-github
-creando repositorio en github para coderhouse 
+*Creando repositorio en github para coderhouse 
+*Trabajando con Visual Studio Code
+*Usando html y css
